@@ -1,0 +1,6 @@
+com\wellpro\last\UploadServlet.class
+com\wellpro\last\RegisterServlet.class
+com\wellpro\last\LoginServlet.class
+com\wellpro\last\SendEmailServlet.class
+com\wellpro\last\SendEmailServlet$1.class
+com\wellpro\last\Logout.class
